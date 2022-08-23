@@ -26,7 +26,7 @@ This repo is an implementation of Pixel-Wise Fire Detection method which is base
   </p>
   
 * **Reference:**
-  This implementation is based on the method described below, but the different rule table and implication operator are used.
+  This implementation is based on the method described below, but different rule table and implication operator are used.
   ```
   Çelik T, Özkaramanlı H, Demirel H. Fire and smoke detection without sensors: Image processing based approach[C]//2007 15th European Signal Processing Conference. IEEE, 2007: 1794-1798.
   ```
